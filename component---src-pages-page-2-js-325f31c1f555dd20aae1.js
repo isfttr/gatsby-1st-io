@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[617],{863:function(e,t,r){"use strict";r.r(t);var l=r(294),a=r(37);t.default=function(){return l.createElement("div",{style:{color:"blue",backgroundColor:"red"}},l.createElement("h1",null,"This is page 2"),l.createElement("p",null,"First paragraph"),l.createElement(a.ZP,{to:"/"},"Go back to homepage"),l.createElement("p",null,"Second paragraph"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-325f31c1f555dd20aae1.js.map

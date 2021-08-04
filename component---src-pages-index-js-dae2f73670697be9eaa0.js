@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{704:function(e,t,r){"use strict";r.r(t);var l=r(294),a=r(37);t.default=function(){return l.createElement("div",{style:{color:"blue",backgroundColor:"green"}},l.createElement("h1",null,"Home Page!!! "),l.createElement("p",null,"First paragraph"),l.createElement(a.ZP,{to:"/page-2"},"Page 2"),l.createElement("br",null),l.createElement(a.ZP,{to:"/counter"},"Checkout the counter page"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-dae2f73670697be9eaa0.js.map
